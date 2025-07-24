@@ -58,17 +58,17 @@ This project demonstrates how to interface a 16x2 HD44780-based LCD with an ESP3
  -Supply 5V to LCD VCC and LED+. Using 3.3V may cause dim or no display.
 
 ## 🧑‍💻 How to Use
-# Step 1: Clone & Open Project
+### Step 1: Clone & Open Project
 
      git clone https://github.com/yourusername/esp-lcd-time.git
      cd esp-lcd-time
-# Step 2: Build the Project
+### Step 2: Build the Project
 
      idf.py build
-# Step 3: Flash to ESP32
+### Step 3: Flash to ESP32
 
     idf.py -p /dev/ttyUSB0 flash monitor
-# Step 4: Output
+### Step 4: Output
 If wired correctly and flashed successfully, the LCD will display:
 
 
