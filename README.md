@@ -115,7 +115,5 @@ The time will keep updating every second.
 
 Melvin Joshua
 
-Embedded Systems Intern
 
-April 2025
 
